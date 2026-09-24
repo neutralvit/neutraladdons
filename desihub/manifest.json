@@ -6,7 +6,7 @@
     "description": "Watch OTT Content from ULLU, AKKU, AHAFLIX, ALT BALAJI, ATRANGI, BIGSHOTS, JUGNU, HULCHUL and more than 20 ott",
     "addontype": "jsaddon",
     "baseUrl": "https://webxseries.gg",
-    "scriptUrl": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/plugin.js",
+    "scriptUrl": "https://raw.githubusercontent.com/neutralvit/neutraladdons/refs/heads/main/desihub/plugin.js",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2a6npAwoTorVuvcriiac5B0VLk7aTOx9Kng&s",
     "style": {
         "posterstyle": "cinematic"
