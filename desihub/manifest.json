@@ -39,13 +39,13 @@
             "id": "9redmovies",
             "name": "9RedMovies",
             "url": "https://webxseries.gg/category/9redmovies/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/9redmovies.webp"
+            "logo": "https://www.9redmovies.com/images/9redmovies.png"
         },
         {
             "id": "aahaflix",
             "name": "AahaFlix",
             "url": "https://webxseries.gg/category/aahaflix/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/aahaflix.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQlLqSgwQ9XEgRsXdzVlA8Kciqcw5XnMrLTKmowZuqw&s"
         },
         {
             "id": "akku",
@@ -57,19 +57,19 @@
             "id": "altt",
             "name": "ALTT",
             "url": "https://webxseries.gg/category/altt/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/altt.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrd3OLZYhUlrXLOHutN72V9AgnnjUmAC1rsKubyl-rGg&s=10p"
         },
         {
             "id": "atrangii",
             "name": "Atrangii",
             "url": "https://webxseries.gg/category/atrangii/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/atrangii.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf14v7EtARXH-6ClmApYifUfo61v6YkVsiF0jsQAdrxSFVYR8Y_rpeAEk&s=10"
         },
         {
             "id": "battameez",
             "name": "Battameez",
             "url": "https://webxseries.gg/category/battameez/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/battameez.webp"
+            "logo": "https://pbs.twimg.com/profile_images/1757387573243314176/ghIYLyCe_400x400.jpg"
         },
         {
             "id": "besharams",
@@ -81,7 +81,7 @@
             "id": "big movie zoo",
             "name": "Big Movie Zoo",
             "url": "https://webxseries.gg/category/big-movie-zoo/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/big movie zoo.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrYxXFp9BUAM9p4fRKqRVTFkzaHOB2UUogXAWIlJ4-aEngP9M3Eus36mA&s=10"
         },
         {
             "id": "bigshots",
@@ -93,13 +93,13 @@
             "id": "bull",
             "name": "Bull",
             "url": "https://webxseries.gg/category/bull/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/bull.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYdaXI_EczLNCnjSUQ3uAH13I0auL3xU9mPbBKUZcrA&s=10"
         },
         {
             "id": "chiku",
             "name": "Chiku",
             "url": "https://webxseries.gg/category/chiku/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/chiku.webp"
+            "logo": "https://image.winudf.com/v2/image1/aW4uY2hpa3UuYXBwX2ljb25fMTY5Mjk4MDY5Ml8wOTg/icon.png?w=184&fakeurl=1"
         },
         {
             "id": "chillx",
@@ -111,61 +111,61 @@
             "id": "cinebox prime",
             "name": "CineBox Prime",
             "url": "https://webxseries.gg/category/cinebox-prime/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/cinebox prime.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhX1bWuvmuTpzdON3jLW-hMWABvDx3FGcxTxJ5C4bQEQ&s=10"
         },
         {
             "id": "cineprime",
             "name": "CinePrime",
             "url": "https://webxseries.gg/category/cineprime/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/cineprime.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCxTqLaonI1noNh3TvR48SQQb1X2f_gbw9Z42Wdb-kw&s=10"
         },
         {
             "id": "crf",
             "name": "CRF",
             "url": "https://webxseries.gg/category/crf/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/crf.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYC8knSgiwHKCHFE9E0jCW-5khzQ2JMe3181cWxKJWPA&s=10"
         },
         {
             "id": "desi prime",
             "name": "Desi Prime",
             "url": "https://webxseries.gg/category/desi-prime/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/desi prime.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1eEpY6njwtXzVXhPbx3N0Y7L8FIj_HqJubJL2pClxw&s=10"
         },
         {
             "id": "digi movieplex",
             "name": "Digi Movieplex",
             "url": "https://webxseries.gg/category/digi-movieplex/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/digi movieplex.webp"
+            "logo": "https://play-lh.googleusercontent.com/SBXso8nG0RKHWGTe_XJmh-1ezotnpNfNrls5SYdAWqjHMpNvIJFoKCyxCqf7uLum66_KCyBIu7wFAC3nxzh6Sg"
         },
         {
             "id": "dreams films",
             "name": "Dreams Films",
             "url": "https://webxseries.gg/category/dreams-films/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/dreams films.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnh7h5EZxKCUeXdHDYZGMBsWhpOkXyY3nCPSOjkl1o93ehLuRiOGQSF8OR&s=10"
         },
         {
             "id": "dzyreplay",
             "name": "Dzyreplay",
             "url": "https://webxseries.gg/category/dzyreplay/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/dzyreplay.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYMsW6rF8FsTOzvGtqvN0N5eT8Wxw8GaoddhTS2Ibn27eL1BNVnhEgJK8E&s=10"
         },
         {
             "id": "habbit",
             "name": "Habbit",
             "url": "https://webxseries.gg/category/habbit/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/habbit.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMhrsr7hh5JPbup-EuebGmI38eSKuMtmfOyPHWrqe_5LOK3oHFMZl4Idf&s=10"
         },
         {
             "id": "hitprime",
             "name": "HitPrime",
             "url": "https://webxseries.gg/category/hitprime/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/hitprime.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWdUfG5e5DnOTwGuMQqQj7iIro81NAWf3KctRvEhwmIg&s=10"
         },
         {
             "id": "hulchul",
             "name": "Hulchul",
             "url": "https://webxseries.gg/category/hulchul/page/{page}/",
-            "logo": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/assets/ott/hulchul.webp"
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz59_IygKDjQ7xY2LPp8XbTwf_4_rjEqc6VSgefO5wg&s"
         },
         {
             "id": "hunters",
